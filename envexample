@@ -1,0 +1,11 @@
+# The local LLM to use
+LLM_MODEL=llama-2-7b-chat.Q8_0.gguf
+
+# The absolute or relative path to the folder that has all the files for retrieval
+DIRECTORY=/Users/georbae/Documents/AIDocuments
+
+# Path to store the Chroma database
+CHROMA_DB_PATH=/Users/georbae/Documents/chroma_db
+
+# Path to the model file
+MODEL_PATH=/Users/georbae/Documents/GitHub/ai-agents-masterblass/5-rag-agent/models
