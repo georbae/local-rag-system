@@ -1,4 +1,3 @@
-```markdown
 # Local RAG System
 
 ## Project Overview
@@ -166,4 +165,3 @@ There is currently no licensing. I only ask if you use my code for financial gai
 This project uses several open-source libraries and models. Please refer to the `requirements.txt` file and the code comments for more details on these dependencies.
 
 
-```
